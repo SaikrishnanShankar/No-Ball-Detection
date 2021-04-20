@@ -1,4 +1,4 @@
-#﻿ Dataset:
+# Dataset:
 Download images from google search and resize them to 100 x 100 x3.
 If you want the dataset you can also mail me.
 Gmail:saikrish0108@gmail.com
